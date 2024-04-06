@@ -1,0 +1,50 @@
+Submodules
+__________
+
+src.shuter\_module.camera module
+____________________________________
+
+.. automodule:: src.shuter_module.camera
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.shuter\_module.capture module
+__________________________________________________________
+
+.. automodule:: src.shuter_module.capture
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.shuter\_module.game module
+___________________________________________
+
+.. automodule:: src.shuter_module.game
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.shuter\_module.pers module
+___________________________________
+
+.. automodule:: src.shuter_module.pers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.shuter\_module.save module
+______________________________________________
+
+.. automodule:: src.shuter_module.save
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.shuter\_module.shoot module
+______________________________________________
+
+.. automodule:: src.shuter_module.shoot
+   :members:
+   :undoc-members:
+   :show-inheritance:
